@@ -1,0 +1,19 @@
+{
+  "name": "tagbot",
+  "version": "0.0.1",
+  "description": "TAG BOT",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "ilbey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "megadb": "^3.4.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
